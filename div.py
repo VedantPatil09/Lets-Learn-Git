@@ -1,0 +1,1 @@
+c = input("Enter first number:")
